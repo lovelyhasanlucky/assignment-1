@@ -99,3 +99,16 @@ li::before{
     padding-top: 130px;
     padding-bottom: 50px;
 }
+.extra-notes{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 30px;
+}
+.heading{
+    color: red;
+    padding-bottom: 15px;
+}
+.explanation{
+    background-color: yellow;
+    padding-bottom: 30px;
+}
