@@ -108,7 +108,9 @@ li::before{
     color: red;
     padding-bottom: 15px;
 }
-.explanation{
-    background-color: yellow;
-    padding-bottom: 30px;
+td{
+    border: 5px solid black;
+}
+.description{
+    padding-left: 40%;
 }
