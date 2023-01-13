@@ -114,3 +114,26 @@ td{
 .description{
     padding-left: 40%;
 }
+/*gradiant*/
+
+#gradiant{
+
+    background-image: linear-gradient(to bottom, orange,orangered);
+    padding: 20%;
+    padding-top: 50px;
+    width: 60%;
+    height: 100px;
+    background-size: cover;
+    opacity: 35%;
+    
+}
+.gra-part-1{
+    text-align: left;
+    font-size: 30px;
+    color: white;
+}
+.btn-2{
+    color: orangered ;
+    background-color: white;
+    border-radius: 10px;
+}
